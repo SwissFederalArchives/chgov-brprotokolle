@@ -5,7 +5,7 @@ The “Minutes of the Federal Council” page, includes 4 repositories.
   - [chgov-brprotokolle-server](https://github.com/SwissFederalArchives/chgov-brprotokolle-server)
   - [chgov-brprotokolle-markdown](https://github.com/SwissFederalArchives/chgov-brprotokolle-markdown)
   - [chgov-brprotokolle-frontend](https://github.com/SwissFederalArchives/chgov-brprotokolle-frontend)
-  - [chgov-brprotokolle-markdown](https://github.com/SwissFederalArchives/chgov-brprotokolle-markdown)
+  - [chgov-brprotokolle-ocr](https://github.com/SwissFederalArchives/chgov-brprotokolle-ocr)
 
 # Introduction
 
